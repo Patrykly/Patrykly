@@ -1,7 +1,7 @@
-# Hi there, I'm Patryk.
+# Hey there, I'm Patryk. 👋
 
 ## About Me
-- 17-year-old 4th-year IT student passionate about programming and tech.
+- 17-year-old 4th-year IT student in Poland, passionate about programming and tech.
 - Focused on improving my skills every day through hands-on practice.
 
 ## What I'm Currently Working On
