@@ -1,16 +1,18 @@
-## Hi there 👋
+![Header]()
 
-<!--
-**Patrykly/Patrykly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Patryk.
 
-Here are some ideas to get you started:
+## About Me
+- 17-year-old 4th-year IT student passionate about programming and tech.
+- Focused on improving my skills every day through hands-on practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Currently Working On
+- Building side projects to expand my portfolio.
+- Learning HTML, CSS, JS and exploring web development.
+
+## Tools & Technologies
+- **Languages:** HTML, CSS, JS
+- **Tools & Platforms:** GitHub, VS Code, Cursor, Google AI Studio
+
+## How to Reach Me
+- Email: patryklyskawa5@gmail.com
