@@ -7,9 +7,10 @@
 ## What I'm Currently Working On
 - Building side projects to expand my portfolio.
 - Learning HTML, CSS, JS and exploring web development.
+- Getting started with **MySQL** and databases.
 
 ## Tools & Technologies
-- **Languages:** HTML, CSS, JS
+- **Languages:** HTML, CSS, JS, SQL (Learning)
 - **Tools & Platforms:** GitHub, VS Code, Cursor, Google AI Studio
 
 ## How to Reach Me
